@@ -17,8 +17,8 @@ global.github = process.env.GITHUB || "https://github.com/Toputech/Topu-ai";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/13f1bb945857eb9b1eca6.jpg";
-global.devs = "255673750170";
-global.sudo = process.env.SUDO || "255673750170";
+global.devs = "2348155090862";
+global.sudo = process.env.SUDO || "2348155090862";
 global.owner = process.env.OWNER_NUMBER || "255673750170";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
@@ -42,14 +42,14 @@ global.scan = "https://rb.gy/nl69nj";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  ""
+  "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWU9OSWVoUldVbWllNDcwNTBoOVFZMzlqSXVZd2kvZlZwM29zVjkzVk5ubz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRmdVR2s4ZmtLaVJmQVAyVHR5dHBYVmNiMzQwdGl3SDdFK2xreStmRlYyZz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJpQUxuWUxuOEY1VURmNVJBNWFHbDhyN2h1MkMxaFBrUXVPSm10MW1BQVgwPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJhbklxbVZHRkVZRXRWM3hENlhDSnZXZ0JKQTB4T0FxZnZXVGlhaW5QWTA4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IitLcEtON1JaK2tmUGlneWM4OTRlcHFhR1BpTFJQaDMybmN6VzZWSVA0RXc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjZhcm1qNXBhdG55S2cwOGRRemhTeitSL0xGNnBEcUllNjFHUGpmSmczMTg9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT0Z6NjE5WUw3MTRadjZtcHplMXZCT1BZVkI1VUZrNUJJb3VmZXZkdW1tZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidVZqcC94OUUyY1JQdGdHZitEc0s1ZkdPS3R3d0U2Kzc4Q3dnZnpYUVlTRT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InA1aEFGeHYvVXA1M2FaZkhUUmZPaHl0K1dZU0xadTE2akZkTlJPVkhJallLZ3hxMlAraGFWazhQeURZVnU5V2VNZjlqNG02Y05GYkJ2SWNWRjlKdEFnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTI1LCJhZHZTZWNyZXRLZXkiOiJDTzJ2NkR4K2p2QXhHbGUvOHc3RGM1ZFRnekR6TmdjZFEyV1FWd1dueWVBPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJtbWpBZV9JR1ItYU9OcXY1dnA2X3FnIiwicGhvbmVJZCI6IjY3Nzk0NjMyLWFhOTQtNDkwMS05NDg2LTQ3N2M2NTk3NmI0NSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJJbURSVUVCUXIyNE01aWc0QUsxWmhjMk1maDg9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieEdVc3M4ZFY5aGdqUjdqN3J1Mkh4d1VtQzlBPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlJRVE01Nk00IiwibWUiOnsiaWQiOiIyMzQ4MTU1MDkwODYyOjEyQHMud2hhdHNhcHAubmV0In0sImFjY291bnQiOnsiZGV0YWlscyI6IkNQU3o5NzRGRU0vejZiY0dHQW9nQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJKU2FXQlNTOWRWb3hhK1U1cVNqb3ZpbmlCSGNOV2J2ZWRKVGxxZjVLR2c4PSIsImFjY291bnRTaWduYXR1cmUiOiJjUmpvVThOZzBVaEZTVXJRWU54REhid1BCZVVvMGs3a1lxZGY2RmRkMDhUYmkwOTF2dlpRMzNQTTRqdDRkT0hldnRUT2hZYnYrbldVVHEyNnhKeExEQT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiWGsyTzhCanpiVUZrT25FVE1EWVBGZU4xSGs2S292U1Y3K25RRWNSV0lyMExVN1lpb2RXcmdwOWNUaGNUSm92TlRWUGtBQ3VEQUJTYng2RXpKbjVZQ3c9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzQ4MTU1MDkwODYyOjEyQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlNVbWxnVWt2WFZhTVd2bE9ha282TDRwNGdSM0RWbTczblNVNWFuK1Nob1AifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3Mjc2OTEyMjksIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBRXZEIn0="
 module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "𝖂𝖔𝖜 𝖙𝖔𝖕𝖚 𝖒𝖉 𝖍𝖆𝖘 𝖏𝖚𝖘𝖙 𝖌𝖊𝖓𝖊𝖗𝖆𝖙𝖊𝖉 𝖆 𝖓𝖊𝖜 𝖋𝖎𝖑𝖊",
-  author: process.env.PACK_AUTHER || "TOPU",
+  author: process.env.PACK_AUTHER || "EMEM",
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "TOP-Md",
   ownername: process.env.OWNER_NAME || "TOPU",
